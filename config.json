@@ -16,7 +16,26 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Raj 卝 চৌধুরীヅ",
+    "BOTNAME": "‎⤾➝রাজের↬বউ⤹❤️‍🩹🤍🙂⇣",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "61578376410355",
+        "61568539185003"
+    ],
+    "NDH": [
+        "100000478146113"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+    卝 চৌধুরীヅ",
     "PREFIX": "/",
     "ADMINBOT": [
         "61578376410355",
